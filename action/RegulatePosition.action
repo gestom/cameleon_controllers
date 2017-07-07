@@ -1,0 +1,8 @@
+# goal
+float32 des_pos
+---
+# result
+float32 final_pos
+---
+# feedback
+float32 actual_pos
